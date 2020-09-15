@@ -1,4 +1,4 @@
-<h1>Hi Vivek, we have deloyed our application in Test environment</h1>
+<h1>Hi Ansible and tomcat deploymnet with help of deployment tool</h1>
 <h1>Hi Team, Korvah, Cedric, Kaylab, Has</h1>
 <h1>Final project is ready for deploy</h1>
 <h1>We need to deploy this applicationt to testing evenroment</h1>
