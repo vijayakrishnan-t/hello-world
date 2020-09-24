@@ -1,4 +1,4 @@
-<h1>Hi Korvah and Team, I have deployed the application inside tomcat container, </h1>
+<h1>I have delployed appliaiton in the dokcer contianer, </h1>
 <h1>This is my new deployment with the help of ansible</h1>
 <h1>Hi Team, Korvah, Cedric, Kaylab, Has</h1>
 <h1>Final project is ready for deploy</h1>
